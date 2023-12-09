@@ -15,7 +15,8 @@
             <div class="col-lg-3 col-md-6">
                 <h3>Contacte</h3>
                 <p class="lead">Strada Tudor Vladimirescu 51/1, Durleşti</p>
-                <p class="lead"><a href="tel:+37378953583">+37378953583</a></p>
+                <p class="lead"><a href="tel:+37369770118">+37369770118</a></p>
+                <p class="lead"><a href="tel:+37369173560">+37369173560</a></p>
                 <p><a href="mailto:hanulluiandrei@gmail.com">hanulluiandrei@gmail.com</a></p>
             </div>
             <div class="col-lg-3 col-md-6">

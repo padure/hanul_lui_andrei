@@ -7,7 +7,8 @@
                     <div class="overflow-hidden">
                         <h4>Telefon</h4>
                         <p class="lead">
-                            <a href="tel:+37378953583" class="text-white">+37378953583</a>
+                            <a href="tel:+37369770118" class="text-white">+37369770118</a>
+                            <a href="tel:+37369173560" class="text-white">+37369173560</a>
                         </p>
                     </div>
                 </div>

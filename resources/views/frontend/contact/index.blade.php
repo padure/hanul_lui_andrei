@@ -17,7 +17,7 @@
             <div class="col-md-12 mt-5 heading-title">
                 <h2 class="mt-5 text-center">Contacte</h2>
                 <p class="text-center">
-                    Pentru rezervări și răsfățuri culinare, sună-ne la +373 78 953 583 sau scrie-ne pasiunea ta la hanulluiandrei@gmail.com. Explorează experiența noastră pe Facebook și Instagram pentru porții zilnice de inspirație gastronomică și surprize delicioase. Suntem aici pentru a transforma fiecare contact într-o aventură culinară memorabilă!
+                    Pentru rezervări și răsfățuri culinare, sună-ne la +37369770118, +37369173560 sau scrie-ne pasiunea ta la hanulluiandrei@gmail.com. Explorează experiența noastră pe Facebook și Instagram pentru porții zilnice de inspirație gastronomică și surprize delicioase. Suntem aici pentru a transforma fiecare contact într-o aventură culinară memorabilă!
                 </p>
             </div>
         </div>

@@ -16,7 +16,7 @@
                 <div class="heading-title text-center">
                     <h2 class="pt-5">Servicii Noastre</h2>
                     <p>
-                        Explorează serviciile noastre și transformă orice eveniment într-o experiență memorabilă. Sună-ne la +373 78 953 583 sau scrie-ne la hanulluiandrei@gmail.com pentru a începe planificarea. Hanul lui Andrei - unde visurile tale culinare devin realitate!
+                        Explorează serviciile noastre și transformă orice eveniment într-o experiență memorabilă. Sună-ne la +37369770118, +37369173560 sau scrie-ne la hanulluiandrei@gmail.com pentru a începe planificarea. Hanul lui Andrei - unde visurile tale culinare devin realitate!
                     </p>
                 </div>
             </div>
